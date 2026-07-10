@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1e3a8a;
+  --color-primary-light: #1e40af;
+  --color-primary-dark: #172554;
+  --color-secondary: #f97316;
+  --color-secondary-dark: #ea580c;
+  --color-accent: #3730a3;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
